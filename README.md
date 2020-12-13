@@ -42,7 +42,7 @@ Ethernet : Intel I219V7 PCI Express Gigabit- Ethernet
 
 At first download GenSMBIOS tool from [here.](https://github.com/corpnewt/GenSMBIOS)
 
-Then extract the file & click-> GenSMBIOS.command
+Then extract it & Open-> GenSMBIOS.command
 
 #### 1. Select option :3
 ![](https://github.com/sohagmahin/Gigabyte-B360-Aorus-Gaming-3-Hackintosh/blob/main/screenshots/1.png "1. Select option :3")
