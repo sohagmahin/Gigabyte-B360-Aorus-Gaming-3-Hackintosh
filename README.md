@@ -20,7 +20,7 @@ Audio codec : Realtek® ALC892 (Layout-id : 1)
 
 Ethernet : Intel I219V7 PCI Express Gigabit- Ethernet
 ```
-## BIOS Setting
+## ---------------BIOS Setting---------------
   ### Disable
 ```
 * Fast Boot
@@ -38,7 +38,7 @@ Ethernet : Intel I219V7 PCI Express Gigabit- Ethernet
 * DVMT Pre-Allocated(iGPU Memory): 64MB
 * SATA Mode: AHCI
 ```
-## Change Serial,MLB,SMUUID
+## -------------Change Serial,MLB,SMUUID------------
 
 At first download GenSMBIOS tool from [here.](https://github.com/corpnewt/GenSMBIOS)
 
