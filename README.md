@@ -20,7 +20,7 @@ Audio codec : Realtek® ALC892 (Layout-id : 1)
 
 Ethernet : Intel I219V7 PCI Express Gigabit- Ethernet
 ```
-## ---------------BIOS Setting---------------
+## BIOS Setting
   ### Disable
 ```
 * Fast Boot
