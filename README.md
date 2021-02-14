@@ -1,4 +1,4 @@
-> :warning: **Don't clone this efi.** [Download link](https://github.com/sohagmahin/Gigabyte-B360-Aorus-Gaming-3-Hackintosh/releases).
+> :warning: **Don't clone this efi.** [Download Releases](https://github.com/sohagmahin/Gigabyte-B360-Aorus-Gaming-3-Hackintosh/releases).
 # Gigabyte-B360-Aorus-Gaming-3-Hackintosh
 ### Currently Running On MacOS BigSur(20B50)
 ![](https://github.com/sohagmahin/Gigabyte-B360-Aorus-Gaming-3-Hackintosh/blob/main/screenshots/specs.png)
