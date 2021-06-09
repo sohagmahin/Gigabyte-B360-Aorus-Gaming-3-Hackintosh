@@ -35,7 +35,7 @@ Ethernet : Intel I219V7 PCI Express Gigabit- Ethernet
 * Secure Boot
 * Serial/COM Port
 * VT-d
-* CFG Lock
+* CFG Lock (must be disable)
 * Intel Platform Trust
 
 ```
