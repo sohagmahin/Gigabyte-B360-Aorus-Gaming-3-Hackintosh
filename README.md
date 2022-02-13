@@ -2,7 +2,7 @@
 
 # Gigabyte-B360-Aorus-Gaming-3-Hackintosh
 
-### Currently Running On MacOS BigSur(20C69)
+### Currently Running On MacOS Monterey 12.0.1 (21A559)
 
 ![](https://github.com/sohagmahin/Gigabyte-B360-Aorus-Gaming-3-Hackintosh/blob/main/screenshots/specs.png)
 
