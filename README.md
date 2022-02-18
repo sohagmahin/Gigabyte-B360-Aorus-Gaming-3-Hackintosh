@@ -1,4 +1,4 @@
-> :warning: **Don't clone this efi.** [Download it from Releases](https://github.com/sohagmahin/Gigabyte-B360-Aorus-Gaming-3-Hackintosh/releases).
+> :warning: **Don't clone. How to get the EFI?.** [Download it from Releases](https://github.com/sohagmahin/Gigabyte-B360-Aorus-Gaming-3-Hackintosh/releases).
 
 # Gigabyte-B360-Aorus-Gaming-3-Hackintosh
 
