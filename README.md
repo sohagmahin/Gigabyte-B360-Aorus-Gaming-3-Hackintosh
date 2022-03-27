@@ -1,3 +1,5 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 > :warning: **Don't clone. How to get the EFI?.** [Download it from Releases](https://github.com/sohagmahin/Gigabyte-B360-Aorus-Gaming-3-Hackintosh/releases).
 
 # Gigabyte-B360-Aorus-Gaming-3-Hackintosh
