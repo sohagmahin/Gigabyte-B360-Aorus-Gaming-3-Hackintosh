@@ -54,9 +54,9 @@ Ethernet : Intel I219V7 PCI Express Gigabit- Ethernet
 
 ## Change Serial,MLB,SMUUID
 
-At first download GenSMBIOS tool from [here.](https://github.com/corpnewt/GenSMBIOS)
+Download [GenSMBIOS CLI](https://github.com/corpnewt/GenSMBIOS)
 
-Then extract it & Open-> GenSMBIOS.command
+Then extract and Open-> GenSMBIOS.command
 
 #### 1. Select option :3
 
